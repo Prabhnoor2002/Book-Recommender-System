@@ -20,10 +20,6 @@ The Book Recommender System is a web application that recommends books to users 
    ```bash
    git clone https://github.com/Prabhnoor2002/Book-Recommender-System.git
    cd book-recommender-system
-    
-      
-
-
 
 
 
